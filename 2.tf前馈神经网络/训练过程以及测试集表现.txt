@@ -1,0 +1,44 @@
+epoch 1:
+  train_acc: 0.5017    validate_acc: 0.5057 
+epoch 2:
+  train_acc: 0.6265    validate_acc: 0.6102 
+epoch 3:
+  train_acc: 0.5345    validate_acc: 0.5332 
+epoch 4:
+  train_acc: 0.7105    validate_acc: 0.7018 
+epoch 5:
+  train_acc: 0.6617    validate_acc: 0.6552 
+epoch 6:
+  train_acc: 0.7506    validate_acc: 0.7333 
+epoch 7:
+  train_acc: 0.7600    validate_acc: 0.7406 
+epoch 8:
+  train_acc: 0.7863    validate_acc: 0.7649 
+epoch 9:
+  train_acc: 0.7685    validate_acc: 0.7453 
+epoch 10:
+  train_acc: 0.7495    validate_acc: 0.7294 
+epoch 11:
+  train_acc: 0.7856    validate_acc: 0.7588 
+epoch 12:
+  train_acc: 0.8464    validate_acc: 0.8191 
+epoch 13:
+  train_acc: 0.8308    validate_acc: 0.8019 
+epoch 14:
+  train_acc: 0.8543    validate_acc: 0.8239 
+epoch 15:
+  train_acc: 0.8576    validate_acc: 0.8248 
+epoch 16:
+  train_acc: 0.8471    validate_acc: 0.8118 
+epoch 17:
+  train_acc: 0.8396    validate_acc: 0.8065 
+epoch 18:
+  train_acc: 0.8208    validate_acc: 0.7933 
+epoch 19:
+  train_acc: 0.7527    validate_acc: 0.7325 
+epoch 20:
+  train_acc: 0.8514    validate_acc: 0.8142 
+epoch 21:
+  train_acc: 0.6860    validate_acc: 0.6744 
+Performance in test set:
+   accuracy:0.8281  recall:0.8258   precision:0.8300
